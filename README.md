@@ -50,7 +50,7 @@ Permite ingresar el nombre de una nueva sucursal. El programa verifica que el no
 
 Permite seleccionar una sucursal e ingresar:
 
-<img width="419" height="515" alt="Screenshot 2026-09-29 at 7 52 43 p m" src="https://github.com/user-attachments/assets/e10b8db5-569d-4fc1-8f76-7c10479b086f" />
+<img width="400" height="496" alt="Screenshot 2026-09-29 at 7 52 43 p m" src="https://github.com/user-attachments/assets/e10b8db5-569d-4fc1-8f76-7c10479b086f" />
 
 *El programa valida los datos antes de agregar el producto al inventario.*
 
@@ -63,7 +63,8 @@ Permite visualizar la información organizada de las sucursales, categorías y p
 Antes de cargar la información del inventario, el programa valida el archivo inventario.xml utilizando inventario.dtd.
 
 Si el XML cumple con la estructura definida por el DTD, el programa continúa con la carga del inventario. Si existe algún error de estructura o sintaxis, se muestra un mensaje de error y el programa no continúa con la carga.
-<img width="760" height="319" alt="Screenshot 2026-09-29 at 8 03 47 p m" src="https://github.com/user-attachments/assets/d4ed3b63-fae5-4ae7-9ec4-9a1a380daaa8" />
+
+<img width="691" height="250" alt="Screenshot 2026-09-29 at 8 03 47 p m" src="https://github.com/user-attachments/assets/d4ed3b63-fae5-4ae7-9ec4-9a1a380daaa8" />
 
 ### Contribuciones
 
