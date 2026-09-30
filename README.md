@@ -20,7 +20,7 @@
 - XML: La información del inventario se encuentra estructurada mediante un archivo XML con sucursales, categorías y productos.
 - DTD: Utiliza un archivo DTD para comprobar que la estructura del XML sea válida antes de cargar la información al programa.
 - Pantalla de carga: Al iniciar el programa se muestra una pantalla de carga con una imagen y una barra de progreso.
-<img width="400" height="253" alt="Screenshot 2026-09-29 at 7 52 10 p m" src="https://github.com/user-attachments/assets/db8bec97-a121-4d1e-aabf-f7af1a0d1512" />
+<img width="350" height="253" alt="Screenshot 2026-09-29 at 7 52 10 p m" src="https://github.com/user-attachments/assets/db8bec97-a121-4d1e-aabf-f7af1a0d1512" />
 
 ### Instalación
 
