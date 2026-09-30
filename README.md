@@ -5,9 +5,9 @@
 
 ### 👾 Tecnologías usadas
 
-*- Lenguaje: **Python***
-*- Librerías: **Tkinter, Pillow, xml.etree.ElementTree, lxml, os y time.***
-*- Archivos utilizados: **XML y DTD.***
+- *Lenguaje: **Python***
+- *Librerías: **Tkinter, Pillow, xml.etree.ElementTree, lxml, os y time.***
+- *Archivos utilizados: **XML y DTD.***
 
 ### Características principales
 - Interfaz gráfica: Utiliza la librería tkinter para crear ventanas, botones, formularios y menús para interactuar con el sistema.
