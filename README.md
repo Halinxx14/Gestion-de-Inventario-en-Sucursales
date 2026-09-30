@@ -64,7 +64,7 @@ Antes de cargar la información del inventario, el programa valida el archivo in
 
 Si el XML cumple con la estructura definida por el DTD, el programa continúa con la carga del inventario. Si existe algún error de estructura o sintaxis, se muestra un mensaje de error y el programa no continúa con la carga.
 
-<img width="651" height="250" alt="Screenshot 2026-09-29 at 8 03 47 p m" src="https://github.com/user-attachments/assets/d4ed3b63-fae5-4ae7-9ec4-9a1a380daaa8" />
+<img width="645" height="250" alt="Screenshot 2026-09-29 at 8 03 47 p m" src="https://github.com/user-attachments/assets/d4ed3b63-fae5-4ae7-9ec4-9a1a380daaa8" />
 
 ### Contribuciones
 
